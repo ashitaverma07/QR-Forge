@@ -1,2 +1,2 @@
 <h1>QR Forge</h1><br>
-This is a web-application using HTML, CSS and JavaAcript, which generate a QR Code for any given word or line.
+This is a web-application,coded using HTML, CSS and JavaAcript, which generate a QR Code for any given word or line.
